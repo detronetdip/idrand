@@ -1,6 +1,6 @@
 {
   "name": "idrand",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A random alphanumeric id generator",
   "main": "idrand.js",
   "scripts": {

@@ -5,7 +5,7 @@ A random alphanumeric id generator.
 ### Usage
  First install it using `npm`;
  ```
-
+ npm i idrand
  ```
  then `require` `idrand` in your code.
 ```

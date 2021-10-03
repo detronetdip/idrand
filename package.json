@@ -1,0 +1,19 @@
+{
+  "name": "idrand",
+  "version": "1.0.0",
+  "description": "A random alphanumeric id generator",
+  "main": "idrand.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/detronetdip/idrand.git"
+  },
+  "author": "Ayondip Jana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/detronetdip/idrand/issues"
+  },
+  "homepage": "https://github.com/detronetdip/idrand#readme"
+}

@@ -3,8 +3,11 @@
 A random alphanumeric id generator.
 
 ### Usage
+ First install it using `npm`;
+ ```
 
-`require` `idrand` in your code.
+ ```
+ then `require` `idrand` in your code.
 ```
 const newId = require('idrand');
 ```
